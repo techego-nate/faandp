@@ -18,5 +18,10 @@
         "laravel-mix": "^2.0",
         "lodash": "^4.17.4",
         "vue": "^2.5.7"
+    },
+    "dependencies": {
+        "datatables.net": "^1.10.16",
+        "datatables.net-bs": "^1.10.16",
+        "datatables.net-editor": "^1.6.5"
     }
 }
